@@ -2,10 +2,10 @@
 I'm Ben, a Senior PM building prototypes, automating systems, publishing sites, and augmenting workflows for product teams and SMBs. 
 
 What I am working on: 
-AI Agents: single-agent, multi-agent, MCP-based, browser agents, local agents
-AI Skills: release comms, product & technical documentation, slide deck creation, product analytics, & more
-Hosted Websites: benshattuck.studio, cleanspaceinc.com
-Prototyping via Claude Design, Figma, Lovable
+- AI Agents: single-agent, multi-agent, MCP-based, browser agents, local agents
+- AI Skills: release comms, product & technical documentation, slide deck creation, product analytics, & more
+- Hosted Websites: benshattuck.studio, cleanspaceinc.com
+- Prototyping via Claude Design, Figma, Lovable
 
 ## About Me
 I've spent the last 11 years in healthcare technology. I started on the customer-facing side in CX & relationship management. Then I moved into QA, where I also served as Scrum Master. That gave me a real grounding in how software actually gets used and tested before I ever wrote a requirement myself.
