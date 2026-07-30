@@ -7,7 +7,7 @@ AI Skills: release comms, product & technical documentation, slide deck creation
 Hosted Websites: benshattuck.studio, cleanspaceinc.com
 Prototyping via Claude Design, Figma, Lovable
 
-About Me
+## About Me
 I've spent the last 11 years in healthcare technology. I started on the customer-facing side in CX & relationship management. Then I moved into QA, where I also served as Scrum Master. That gave me a real grounding in how software actually gets used and tested before I ever wrote a requirement myself.
 
 From there I moved into Product. At AdvancedMD, I was Product Manager over the patient engagement suite including Telehealth, Patient Portal, electronic payments.
